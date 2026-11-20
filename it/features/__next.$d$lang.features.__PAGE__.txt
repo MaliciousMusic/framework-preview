@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/framework-preview/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/framework-preview/_next/static/chunks/1paflzh4x1gih.js"
+a:I[36852,["$9"],"default"]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+17:I[27201,["$2"],"IconMark"]
+:HL["/framework-preview/_next/static/chunks/0osjwmlqb6ktt.css","style"]
+6:X
+6:C
+7:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"page wrap","children":[["$","header",null,{"className":"page-intro","children":[["$","p",null,{"className":"kicker","children":["02"," / ","Funzionalità"]}],["$","h1",null,{"children":"Dalla prima linea all'officina"}],["$","p",null,{"className":"lead","children":["Quattro aree di lavoro coprono l'intera vita di un telaio. Ecco cosa fa già la versione attuale.","$undefined"]}]]}],["$","section",null,{"className":"walkthrough","children":["$","video",null,{"src":"/framework-preview/video/walkthrough.mp4","poster":"/framework-preview/video/walkthrough-poster.jpg","controls":true,"autoPlay":true,"muted":true,"loop":true,"playsInline":true,"preload":"metadata"}]}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$7"}}]]
+c:[["children",{"s":"features","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@d","v":"$6","s":"$7"},"c":"$Qe"}]]
+8:[["children",{"s":{"n":"lang","t":"d","k":"it","s":[]},"h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/framework-preview/_next/static/chunks/0osjwmlqb6ktt.css","precedence":"next"}],["$","script","script-0",{"src":"/framework-preview/_next/static/chunks/1paflzh4x1gih.js","async":true}]],["$","html",null,{"lang":"it","className":"c1IjlG_variable CxiPNW_variable -_zbQG_variable","children":["$","body",null,{"children":[["$","$La",null,{"lang":"it","nav":{"project":"Progetto","features":"Funzionalità","roadmap":"Roadmap","pricing":"Prezzi","download":"Scarica","language":"Lingua","downloadFor":"Scarica per","soon":"Presto"}}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}],["$","footer",null,{"className":"sticky-footer","children":["$","div",null,{"className":"wrap sf-inner","children":[["$","div",null,{"className":"sf-social","children":[["$","span",null,{"className":"sf-label","children":"Seguici"}],["$","ul",null,{"children":[["$","li","Instagram",{"children":["$","span",null,{"aria-disabled":"true","title":"Presto","children":"Instagram"}]}],["$","li","YouTube",{"children":["$","span",null,{"aria-disabled":"true","title":"Presto","children":"YouTube"}]}],["$","li","Strava",{"children":["$","span",null,{"aria-disabled":"true","title":"Presto","children":"Strava"}]}],["$","li","LinkedIn",{"children":["$","span",null,{"aria-disabled":"true","title":"Presto","children":"LinkedIn"}]}]]}]]}],["$","span",null,{"className":"btn btn-small sf-cta","aria-disabled":"true","title":"Presto","children":["Unisciti alla community",["$","span",null,{"className":"ver","children":"Presto"}]]}]]}]}]]}]}]]}],"p":"$@b","v":null,"s":"$7"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dalla prima linea all'officina — Framework"}],["$","meta","1",{"name":"description","content":"Quattro aree di lavoro coprono l'intera vita di un telaio. Ecco cosa fa già la versione attuale."}],["$","link","2",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","3",{"rel":"alternate","hrefLang":"fr","href":"/fr"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","5",{"rel":"alternate","hrefLang":"de","href":"/de"}],["$","link","6",{"rel":"alternate","hrefLang":"it","href":"/it"}],["$","link","7",{"rel":"alternate","hrefLang":"pt","href":"/pt"}],["$","link","8",{"rel":"alternate","hrefLang":"nl","href":"/nl"}],["$","link","9",{"rel":"alternate","hrefLang":"ja","href":"/ja"}],["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"/zh"}],["$","link","11",{"rel":"icon","href":"/framework-preview/icon.svg?icon.0pxitbhfnkrcg.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$7"}},"a":"$@19","u":"$@1a","b":"FFNXlx5-LxUcn70inS82f"}
+11:null
+7:300
+1a:true
+7:C
+19:0
+d:"$undefined"
+b:"$undefined"
+5:"$undefined"
+18:"$undefined"
+12:"$undefined"
